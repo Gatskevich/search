@@ -37,4 +37,15 @@ Fake data in `src/features/Search/data/searchData.ts`
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gatskevich/search.git
-   bash ```
+
+2. Navigate into the project folder:
+   ```bash
+   cd search
+   
+3. Install the dependencies:
+   ```bash
+   npm install
+   
+4. Start the development server:
+   ```bash
+   npm start
