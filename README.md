@@ -29,3 +29,9 @@ Fake data in `src/features/Search/data/searchData.ts`
 - Uncharted 4: A Thief's End
 - Fall Guys: Ultimate Knockout
 - Super Mario Odyssey
+
+## How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone <your-repository-url>
