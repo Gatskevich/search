@@ -1,5 +1,7 @@
 # SearchX
 
+Site: [https://tourmaline-druid-f2ecc2.netlify.app/](https://tourmaline-druid-f2ecc2.netlify.app/)
+
 Node version: v22.12.0
 
 Fake data in `src/features/Search/data/searchData.ts`
@@ -34,4 +36,5 @@ Fake data in `src/features/Search/data/searchData.ts`
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Gatskevich/search.git
+   bash ```
