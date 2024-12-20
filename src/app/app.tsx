@@ -1,11 +1,12 @@
-import NxWelcome from './nx-welcome';
+import { SearchProvider } from '../features/Search/context/SearchContext';
+import SearchPage from '../pages/SearchPage';
 
-export function App() {
+const App = () => {
   return (
-    <div>
-      <NxWelcome title="search-x" />
-    </div>
+    <SearchProvider>
+      <SearchPage />
+    </SearchProvider>
   );
-}
+};
 
 export default App;
